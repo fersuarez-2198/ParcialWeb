@@ -17,20 +17,20 @@
 
 @font-face {
     font-family: 'info-icon';
-    src:  url('../../../src/resources/fonts/info-icon.eot?1rhczk');
-    src:  url('../../../src/resources/fonts/info-icon.eot?1rhczk#iefix') format('embedded-opentype'),
-    url('../../../src/resources/fonts/info-icon.ttf?1rhczk') format('truetype'),
-    url('../../../src/resources/fonts/info-icon.woff?1rhczk') format('woff'),
-    url('../../../src/resources/fonts/info-icon.svg?1rhczk#info-icon') format('svg');
+    src:  url('..resources/fonts/info-icon.eot?1rhczk');
+    src:  url('..resources/fonts/info-icon.eot?1rhczk#iefix') format('embedded-opentype'),
+    url('..resources/fonts/info-icon.ttf?1rhczk') format('truetype'),
+    url('..resources/fonts/info-icon.woff?1rhczk') format('woff'),
+    url('..resources/fonts/info-icon.svg?1rhczk#info-icon') format('svg');
 }
 
 @font-face {
     font-family: 'icomoon';
-    src:  url('../../../src/resources/fonts/icomoon.eot?2q02vd');
-    src:  url('../../../src/resources/fonts/icomoon.eot?2q02vd#iefix') format('embedded-opentype'),
-      url('../../../src/resources/fonts/icomoon.ttf?2q02vd') format('truetype'),
-      url('../../../src/resources/fonts/icomoon.woff?2q02vd') format('woff'),
-      url('../../../src/resources/fonts/icomoon.svg?2q02vd#icomoon') format('svg');
+    src:  url('..resources/fonts/icomoon.eot?2q02vd');
+    src:  url('..resources/fonts/icomoon.eot?2q02vd#iefix') format('embedded-opentype'),
+      url('..resources/fonts/icomoon.ttf?2q02vd') format('truetype'),
+      url('..resources/fonts/icomoon.woff?2q02vd') format('woff'),
+      url('..resources/fonts/icomoon.svg?2q02vd#icomoon') format('svg');
    
 }
 :root {
